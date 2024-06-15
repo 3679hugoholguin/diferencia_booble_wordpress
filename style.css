@@ -1,0 +1,20 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+caption{
+    background-color: rgb(231, 152, 152);
+    border:2px solid rgb(22, 21, 21);
+}
+
+thead{
+    font-size: 40px;
+    color: rgb(73, 167, 103);
+}
+
+th,td{
+    background-color: rgb(247, 248, 161);
+    border:2px solid rgb(22, 21, 21);
+    padding: 20px;
+    
+}
